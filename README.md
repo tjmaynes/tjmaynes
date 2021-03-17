@@ -4,4 +4,4 @@ I'm a passionate, polyglot, generalist software developer / consultant at [VMwar
 
 I 💖 eXtreme Programming, functional programming and automating the hard things 🚀
 
-Currently based in Brooklyn, NY 🌇
+Find out more at [tjmaynes.com](https://tjmaynes.com)!
