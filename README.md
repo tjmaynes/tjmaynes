@@ -2,6 +2,6 @@
 
 I'm a passionate, generalist consultant at [VMware Tanzu Labs](https://tanzu.vmware.com/labs) 💻
 
-I 💖 app development, functional programming and automating the hard things 🚀
+I 💖 app development, building amazing teams 🤗 and automating the hard things 🚀
 
 Find out more at [tjmaynes.com](https://tjmaynes.com)!
